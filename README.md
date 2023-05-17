@@ -10,4 +10,5 @@ run the testmodel after finished training.
 
 
 ![image](https://github.com/MaileThHai/simple-fruits-classifying-using-resnet50/assets/127375951/c5ef86cb-ca2f-44a7-a9df-41e8619c9665)
+
 Can leave the output_test folder empty before test.
